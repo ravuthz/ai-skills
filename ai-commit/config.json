@@ -1,0 +1,6 @@
+{
+  "auto_stage": false,
+  "require_confirmation": true,
+  "conventional_commits": true,
+  "max_diff_lines": 5000
+}
